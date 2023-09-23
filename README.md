@@ -1,6 +1,6 @@
 ## About
 
-Can make future projects like this `test 1 2 3`.
+Can make future projects.
 
 <!---
 Khazmatrix/Khazmatrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
